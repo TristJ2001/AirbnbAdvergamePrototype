@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Image1
+  - EmptySquare
+  - Image2
+  - Image3
+  - Image4
+  - Image5
+  - Image1Combination
+  - Image2Combination
+  - Image3Combination
+  - Image4Combination
+  - Image5Combination
+  - LockedSquare
+  - Image6
+  - Image7
+  - Image8
+  - Image9
+  - Image10
+  - Image6Combination
+  - Image7Combination
+  - Image8Combination
+  - Image9Combination
+  - Image10Combination
+  - GamesWonText
+  - GreenSquare
+  - YellowSquare
+  - RedSquare
+  - Image01
+  - Image02
+  - Image03
+  - Image04
+  - Image05
+  - Image06
+  - Image07
+  - Image08
+  - Image09
+  - Image01Combination
+  - Image02Combination
+  - Image03Combination
+  - Image04Combination
+  - Image05Combination
+  - Image06Combination
+  - Image07Combination
+  - Image08Combination
+  - Image09Combination
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
